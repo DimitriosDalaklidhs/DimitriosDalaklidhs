@@ -1,12 +1,10 @@
 # Dimitrios Dalaklidis
-
-Informatics student at the University of Western Macedonia, graduating with 192 ECTS. I work primarily in C and Java, with a focus on systems programming, network applications, and backend development. I am comfortable at the low level: sockets, process management, memory, file I/O. I also have experience building applications with database backends.
-
+Informatics student at the University of Western Macedonia, graduating with 192 ECTS. I work primarily in C and Java, with a focus on systems programming, network applications, and backend development. I am comfortable at the low level: sockets, process management, memory, file I/O. I also have experience building production-structured backend applications with REST APIs, JWT security, and database backends.
 Open to junior roles in systems, backend, or software engineering.
-
 &nbsp;
-
 ## Projects
+**[Hospital Management REST API](https://github.com/DimitriosDalaklidhs/spring-boot-Greek-hospital-system)** `Java` `Spring Boot` `MySQL` `JWT` `Docker` `Kubernetes`
+Secure REST API for managing hospital patients, hospitalizations, and medical tests. Features stateless JWT authentication, role-based access control (DOCTOR / CLERK / ADMIN) enforced at the HTTP method level, and atomic patient registration via Spring `@Transactional`. Includes a full Luhn algorithm implementation for validating Greek ΑΜΚΑ numbers with birth-date extraction. Containerized with Docker and deployed on Kubernetes.
 
 **[Library-System-Java-MySQL](https://github.com/DimitriosDalaklidhs/Library-System-Java-MySQL)** `Java` `MySQL`
 Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed-book tracking, and automated database initialization via SQL schemas.
@@ -27,13 +25,8 @@ TCP/IP client-server system for currency exchange operations. Focuses on protoco
 Demonstrates the Unix process lifecycle: creation, child execution, and synchronization using `fork()`, `getpid()`, and `wait()`.
 
 &nbsp;
-
 ## Skills
-
-`C` `Java` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Git` `Docker` `Kubernetes`
-
+`C` `Java` `Spring Boot` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Kubernetes` `Git` `JWT` `REST APIs`
 &nbsp;
-
 ## Contact
-
 📬 dalaklidesdemetres@gmail.com
