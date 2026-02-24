@@ -1,6 +1,6 @@
 # Dimitrios Dalaklidis
 
-Informatics student at the University of Western Macedonia, graduating with 192 ECTS. I work primarily in C and Java, with a focus on systems programming, network applications, and backend development. I am comfortable at the low level: sockets, process management, memory, file I/O. I also have experience building full-stack applications with database backends.
+Informatics student at the University of Western Macedonia, graduating with 192 ECTS. I work primarily in C and Java, with a focus on systems programming, network applications, and backend development. I am comfortable at the low level: sockets, process management, memory, file I/O. I also have experience building applications with database backends.
 
 Open to junior roles in systems, backend, or software engineering.
 
@@ -24,13 +24,13 @@ Demonstrates the Unix process lifecycle: creation, child execution, and synchron
 Lightweight process supervisor written in Bash for managing and auto-restarting long-running workloads in Docker and Kubernetes environments.
 
 **[Library-System-Java-MySQL](https://github.com/DimitriosDalaklidhs/Library-System-Java-MySQL)** `Java` `MySQL`
-Full library management system with a GUI frontend and MySQL backend. Features user authentication, book search, borrowed-book tracking, and automated database initialization via SQL schemas.
+Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed-book tracking, and automated database initialization via SQL schemas.
 
 &nbsp;
 
 ## Skills
 
-`C` `Java` `Bash` `JavaScript` `TCP/IP` `Unix` `MySQL` `Docker` `Git` `Make` `GCC`
+`C` `Java` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Git` `Docker` `Kubernetes`
 
 &nbsp;
 
