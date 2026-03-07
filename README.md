@@ -29,4 +29,4 @@ Demonstrates the Unix process lifecycle: creation, child execution, and synchron
 `C` `Java` `Spring Boot` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Kubernetes` `Git` `JWT` `REST APIs`
 &nbsp;
 ## Contact
-📬 dalaklidesdemetres@gmail.com
+ dalaklidesdemetres@gmail.com
