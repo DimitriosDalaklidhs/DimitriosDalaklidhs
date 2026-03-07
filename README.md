@@ -21,8 +21,8 @@ Multithreaded HTTP server written from scratch using Windows sockets. Handles co
 **[currency-exchange-server](https://github.com/DimitriosDalaklidhs/currency-exchange-server)** `C`
 TCP/IP client-server system for currency exchange operations. Focuses on protocol design and socket communication.
 
-**[unix-process-management](https://github.com/DimitriosDalaklidhs/unix-process-management)** `C` `Unix`
-Demonstrates the Unix process lifecycle: creation, child execution, and synchronization using `fork()`, `getpid()`, and `wait()`.
+**[unix-process-management](https://github.com/DimitriosDalaklidhs/unix-process-management)** `C` `Unix` `IPC` `Docker`
+Demonstrates Unix inter-process communication using a shared pipe across multiple child processes. Covers the full process lifecycle — creation, concurrent execution, and synchronization — via fork(), getpid(), pipe(), and wait(). Packaged with a multi-stage Docker build; no local C toolchain required.
 
 &nbsp;
 ## Skills
