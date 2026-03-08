@@ -10,7 +10,7 @@ Secure REST API for managing hospital patients, hospitalizations, and medical te
 Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed-book tracking, and automated database initialization via SQL schemas.
 
 **[process-supervisor](https://github.com/DimitriosDalaklidhs/process-supervisor)** `Bash` `Docker`
-Lightweight process supervisor written in Bash for managing and automatically restarting long-running workloads in Docker and Kubernetes environments.
+Lightweight process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments.
 
 **[tcp-prime-factors-server-client](https://github.com/DimitriosDalaklidhs/tcp-prime-factors-server-client)** `C`
 TCP client-server application. The client sends integers over a socket; the server computes and returns their prime factors. Built for a networking course at UoWM.
