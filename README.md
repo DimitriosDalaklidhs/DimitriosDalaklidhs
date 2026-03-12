@@ -4,7 +4,7 @@ Open to junior roles in systems, backend, or software engineering.
 &nbsp;
 ## Projects
 **[Greek Hospital Management Spring Boot REST API](https://github.com/DimitriosDalaklidhs/spring-boot-Greek-hospital-system)** `Java` `Spring Boot` `MySQL` `JWT` `Docker` `Kubernetes`
-Secure REST API for managing hospital patients, hospitalizations, and medical tests. Features stateless JWT authentication, role based access control (DOCTOR / CLERK / ADMIN) enforced at the HTTP method level, and atomic patient registration via Spring `@Transactional`. Includes a full Luhn algorithm implementation for validating Greek ΑΜΚΑ numbers with birth date extraction. Containerized with Docker.
+Secure REST API for managing hospital patients, hospitalizations, and medical tests. Features stateless JWT authentication, role based access control (DOCTOR / CLERK / ADMIN) enforced at the HTTP method level, and atomic patient registration via Spring `@Transactional`. Includes a full Luhn algorithm implementation for validating Greek ΑΜΚΑ numbers with birth date extraction. Deployed on Railway!
 
 **[Library-System-Java-MySQL](https://github.com/DimitriosDalaklidhs/Library-System-Java-MySQL)** `Java` `MySQL`
 Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed-book tracking, and automated database initialization via SQL schemas.
