@@ -4,16 +4,12 @@ Open to junior roles in systems, backend, or software engineering.
 &nbsp;
 ```markdown
 ## Open Source Contributions
- 
-#ion-fusion/fusion-java (Amazon Ion) Java Serialization
-[Git](https://github.com/amazon-ion/ion-java-fusion)
 
-* Diagnosed a duplicate-render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
+### [ion-fusion/fusion-java (Amazon Ion)](https://github.com/amazon-ion/ion-java-fusion) | Java
+* **[span_0](start_span)Bug Fix:** Diagnosed a duplicate-render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime[span_0](end_span).
+* **[span_1](start_span)Testing:** Contributed comprehensive test cases covering operator symbols and quoted symbols within fusion files[span_1](end_span).
+* **[span_2](start_span)Collaboration:** Engaged in a multi-round professional code review process with US-based maintainers, adopting project conventions and refining core serialization code[span_2](end_span).
 
-* Contributed comprehensive test cases covering operator symbols and quoted symbols within fusion files.
-
-* Engaged in a multi-round professional code review with US-based maintainers, adopting project conventions and refining core serialization code paths.
-```
 
 ## Projects
 **[Greek Hospital Management Spring Boot REST API](https://github.com/DimitriosDalaklidhs/spring-boot-Greek-hospital-system)** `Java` `Spring Boot` `MySQL` `JWT`
