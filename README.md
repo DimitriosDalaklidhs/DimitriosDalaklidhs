@@ -2,22 +2,15 @@
 Informatics student at the University of Western Macedonia, graduating soon with 197/240 ECTS. I work primarily in C and Java, with a focus on systems programming, network applications, and backend development. I am comfortable at the low level: sockets, process management, memory, file I/O. I also have experience building production structured backend applications with REST APIs, JWT security,role based access and database backends.
 Open to junior roles in systems, backend, or software engineering.
 &nbsp;
-```markdown
+
 # Open Source Contributions
 
-<div style="overflow-x: auto;">
+## [ion-fusion/fusion-java (Amazon Ion) Java Serialization](https://github.com/ion-fusion/fusion-java/pull/490))
 
-## ion-fusion/fusion-java (Amazon Ion) Java Serialization
-[Git](https://github.com/amazon-ion/ion-java-fusion)
+- Diagnosed a duplicate-render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
+- Contributed comprehensive test cases covering operator symbols and quoted symbols within fusion files.
+- Engaged in a multi-round professional code review with US-based maintainers, adopting project conventions and refining core serialization code paths.
 
-* Diagnosed a duplicate-render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
-
-* Contributed comprehensive test cases covering operator symbols and quoted symbols within fusion files.
-
-* Engaged in a multi-round professional code review with US-based maintainers, adopting project conventions and refining core serialization code paths.
-
-</div>
-```
 
 
 ## Projects
