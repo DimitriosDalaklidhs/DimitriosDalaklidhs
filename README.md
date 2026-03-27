@@ -42,7 +42,7 @@ Demonstrates Unix interprocess communication using a shared pipe across multiple
 
 &nbsp;
 ## Skills
-`C` `Java` `Spring Boot` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Kubernetes` `Git` `JWT` `REST APIs`
+`C` `Java` `Spring Boot` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Kubernetes` `English C2 Michigan State Umiversity ECPE certified` `Git` `JWT` `REST APIs`
 &nbsp;
 ## Contact
  dalaklidesdemetres@gmail.com
