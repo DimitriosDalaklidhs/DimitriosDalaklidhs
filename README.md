@@ -9,7 +9,7 @@ Open to junior roles in systems, backend, or software engineering.
 
 - Diagnosed a duplicate-render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
 - Contributed test cases covering operator symbols and quoted symbols within fusion files.
-- Engaged in a multi-round professional code review with US-based maintainers, adopting project conventions and refining core serialization code paths.
+- Engaged in a multi-round professional code review with US-based maintainers, adopting project conventions, discussing architectural design and refining core serialization code paths.
 
 
 ## Projects
