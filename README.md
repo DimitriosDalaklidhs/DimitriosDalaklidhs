@@ -9,7 +9,7 @@ Open to roles in systems, backend, or software engineering.
 
 - Diagnosed a duplicate render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
 - Contributed test cases covering operator symbols and quoted symbols within fusion files.
-- Engaged in a multi-round professional code review with US-based maintainers, adopting project conventions, discussing architectural design and refining core serialization code paths.
+- Engaged in a multi round professional code review with US-based maintainers, adopting project conventions, discussing architectural design and refining core serialization code paths.
 
 
 ## Projects
@@ -26,16 +26,16 @@ Full library management system with SWING and MySQL backend. Features user authe
 Lightweight process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments.
 
 **[tcp-prime-factors-server-client](https://github.com/DimitriosDalaklidhs/tcp-prime-factors-server-client)** `C`
-TCP client-server application. The client sends integers over a socket; the server computes and returns their prime factors. Built for a networking course at UoWM.
+TCP client server application. The client sends integers over a socket; the server computes and returns their prime factors. Built for a networking course at UoWM.
 
 **[GitProjectServer](https://github.com/DimitriosDalaklidhs/GitProjectServer)** `C` `Winsock`
 Multithreaded HTTP server written from scratch using Windows sockets. Handles concurrent connections without a framework.
 
 **[currency-exchange-server](https://github.com/DimitriosDalaklidhs/currency-exchange-server)** `C`
-TCP/IP client-server system for currency exchange operations. Focuses on protocol design and socket communication.
+TCP/IP client server system for currency exchange operations. Focuses on protocol design and socket communication.
 
 **[unix-process-management](https://github.com/DimitriosDalaklidhs/unix-process-management)** `C` `Unix` `IPC` `Docker`
-Demonstrates Unix interprocess communication using a shared pipe across multiple child processes. Covers the full process lifecycle: creation, concurrent execution, and synchronization via fork(), getpid(), pipe(), and wait(). Packaged with a multi-stage Docker build; no local C toolchain required.
+Demonstrates Unix interprocess communication using a shared pipe across multiple child processes. Covers the full process lifecycle: creation, concurrent execution, and synchronization via fork(), getpid(), pipe(), and wait(). Packaged with a multi stage Docker build; no local C toolchain required.
 
 &nbsp;
 ## Skills
