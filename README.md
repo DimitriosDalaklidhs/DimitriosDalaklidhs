@@ -7,7 +7,7 @@ Open to roles in systems, backend, or software engineering.
 
 ## [ion-fusion/fusion-java (Amazon Ion) Java Serialization](https://github.com/ion-fusion/fusion-java/pull/490))
 
-- Diagnosed a duplicate-render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
+- Diagnosed a duplicate render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
 - Contributed test cases covering operator symbols and quoted symbols within fusion files.
 - Engaged in a multi-round professional code review with US-based maintainers, adopting project conventions, discussing architectural design and refining core serialization code paths.
 
