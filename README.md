@@ -17,7 +17,7 @@ Open to junior roles in systems, backend, or software engineering.
 Secure REST API for managing hospital patients, hospitalizations, and medical tests. Features stateless JWT authentication, role based access control (DOCTOR / CLERK / ADMIN) enforced at the HTTP method level, and atomic patient registration via Spring `@Transactional`. Includes a full Luhn algorithm implementation for validating Greek ΑΜΚΑ numbers with birth date extraction. Deployed on Railway!
 
 **[api-gateway](https://github.com/DimitriosDalaklidhs/api-gateway)** `Python` `FastAPI` `Docker` `Redis`
-High-performance API Gateway for routing requests to backend services with built-in resilience and control features. Includes rate limiting (Redis sliding window with Lua), retries with exponential backoff, circuit breaker (CLOSED/OPEN/HALF-OPEN), JWT authentication, tested to ensure security and response caching. Provides admin endpoints for monitoring (metrics, circuit states, rate limits) and a mock service for failure injection and testing.
+High performing API Gateway for routing requests to backend services with resilience and control features. Includes rate limiting (Redis sliding window with Lua), retries with exponential backoff, circuit breaker (CLOSED/OPEN/HALF-OPEN), JWT authentication, tested to ensure security and response caching. Provides admin endpoints for monitoring (metrics, circuit states, rate limits) and a mock service for failure injection and testing.
 
 **[Library-System-Java-MySQL](https://github.com/DimitriosDalaklidhs/Library-System-Java-MySQL)** `Java` `MySQL`
 Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed-book tracking, and automated database initialization via SQL schemas.
