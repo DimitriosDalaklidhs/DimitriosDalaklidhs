@@ -5,7 +5,7 @@ Open to roles in systems, backend, or software engineering.
 
 # Open Source Contributions
 
-## [ion-fusion/fusion-java (Amazon Ion) Java Serialization](https://github.com/ion-fusion/fusion-java/pull/490))
+## [ion-fusion/fusion-java (Amazon Ion) Java Serialization](https://github.com/ion-fusion/fusion-java/pull/490)
 
 - Diagnosed a duplicate render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
 - Contributed test cases covering operator symbols and quoted symbols within fusion files.
