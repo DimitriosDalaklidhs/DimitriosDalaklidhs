@@ -7,7 +7,7 @@ Open to roles in systems, backend, or software engineering.
 ## [ion-fusion/fusion-java (Amazon Ion) Java Serialization](https://github.com/ion-fusion/fusion-java/pull/490)
 - Fixed a bug in `ActualSymbol.write()` where operator symbols like `+` and `=` were incorrectly quoted inside sexp contexts, violating Ion spec behavior.
 - Added test cases covering operator symbols, quoted symbols, null symbols, and improper sexps in fusion test files.
-- Completed multi-round code review with project maintainers including a principal engineer with 20+ years at Amazon, adopting project conventions and refining core serialization logic.
+- Completed multi-round code review with project maintainers including a principal engineer with 20+ years at Amazon, adopting project conventions and refining core serialization logic. 200+ lines of code accepted into main.
   
 ## Projects
 **[Greek Hospital Management Spring Boot REST API](https://github.com/DimitriosDalaklidhs/spring-boot-Greek-hospital-system)** `Java` `Spring Boot` `MySQL` `JWT`
