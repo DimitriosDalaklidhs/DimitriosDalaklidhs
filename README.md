@@ -4,14 +4,11 @@ Open to roles in systems, backend, or software engineering.
 &nbsp;
 
 # Open Source Contributions
-
 ## [ion-fusion/fusion-java (Amazon Ion) Java Serialization](https://github.com/ion-fusion/fusion-java/pull/490)
-
-- Diagnosed a duplicate render bug in `FusionSexp` where `ImmutablePair.write()` caused malformed output for improper symbolic expressions in a production Amazon language runtime.
-- Contributed test cases covering operator symbols and quoted symbols within fusion files.
-- Engaged in a multi round professional code review with USA based maintainers, adopting project conventions, discussing architectural design and refining core serialization code paths.
-
-
+- Fixed a bug in `ActualSymbol.write()` where operator symbols like `+` and `=` were incorrectly quoted inside sexp contexts, violating Ion spec behavior.
+- Added test cases covering operator symbols, quoted symbols, null symbols, and improper sexps in fusion test files.
+- Completed multi-round code review with project maintainers including a principal engineer with 20+ years at Amazon, adopting project conventions and refining core serialization logic.
+  
 ## Projects
 **[Greek Hospital Management Spring Boot REST API](https://github.com/DimitriosDalaklidhs/spring-boot-Greek-hospital-system)** `Java` `Spring Boot` `MySQL` `JWT`
 Secure REST API for managing hospital patients, hospitalizations, and medical tests. Features stateless JWT authentication, role based access control (DOCTOR / CLERK / ADMIN) enforced at the HTTP method level, and atomic patient registration via Spring `@Transactional`. Includes a full Luhn algorithm implementation for validating Greek ΑΜΚΑ numbers with birth date extraction. Deployed on Railway!
