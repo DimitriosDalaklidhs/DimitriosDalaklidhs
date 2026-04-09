@@ -1,5 +1,5 @@
 # Dimitrios Dalaklidis
-Informatics student at the University of Western Macedonia, graduating soon with 197/240 ECTS. I work primarily in C and Java, with a focus on systems programming, network applications, and backend development. I am comfortable at the low level: sockets, process management, memory, file I/O. I also have experience building production structured backend applications with REST APIs, JWT security,role based access and database backends.
+Informatics student at the University of Western Macedonia, graduating soon with 197/240 ECTS. I work primarily in C and Java, with a focus on systems programming, network applications, and backend development. I am comfortable at the low level: sockets, process management, memory, file I/O. I also have experience building production structured backend applications with REST APIs, JWT security, role based access and database backends.
 Open to roles in systems, backend, or software engineering.
 &nbsp;
 
