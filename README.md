@@ -8,7 +8,10 @@ Open to roles in systems, backend, or software engineering.
 - Fixed a bug in `ActualSymbol.write()` where operator symbols like `+` and `=` were incorrectly quoted inside sexp contexts, violating Ion spec behavior.
 - Added test cases covering operator symbols, quoted symbols, null symbols, and improper sexps in fusion test files.
 - Completed multi-round code review with project maintainers including a principal engineer with 20+ years at Amazon, adopting project conventions and refining core serialization logic. 200+ lines of code accepted into main.
-  
+ ## [ion-fusion/fusion-java (Amazon Ion) Java Serialization](https://github.com/ion-fusion/fusion-java/pull/518)
+- Added `ionize(Object, IonWriter)` to the `TopLevel` public embedding API, exposing ionization at the correct abstraction layer rather than `FusionRuntime`.
+- Navigated package dependency constraints enforced by static analysis tooling, structural baseline maintenance, and Javadoc requirements for a public facing interface.
+- Reviewed and merged by Todd Jonker, co-inventor of Amazon Ion. 
 ## Projects
 **[Greek Hospital Management Spring Boot REST API](https://github.com/DimitriosDalaklidhs/spring-boot-Greek-hospital-system)** `Java` `Spring Boot` `MySQL` `JWT`
 Secure REST API for managing hospital patients, hospitalizations, and medical tests. Features stateless JWT authentication, role based access control (DOCTOR / CLERK / ADMIN) enforced at the HTTP method level, and atomic patient registration via Spring `@Transactional`. Includes a full Luhn algorithm implementation for validating Greek ΑΜΚΑ numbers with birth date extraction. Deployed on Railway!
