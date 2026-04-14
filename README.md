@@ -4,7 +4,7 @@ Open to roles in systems, backend, or software engineering.
 &nbsp;
 
 ## Open Source Contributions
-**ion-fusion/fusion-java (Amazon Ion):** [PR #490](https://github.com/ion-fusion/fusion-java/pull/490) · [PR #518](https://github.com/ion-fusion/fusion-java/pull/518) · [PR #521](https://github.com/ion-fusion/fusion-java/pull/521) *(under review)*
+**ion-fusion/fusion-java (Amazon Ion):** [PR #490](https://github.com/ion-fusion/fusion-java/pull/490) · [PR #518](https://github.com/ion-fusion/fusion-java/pull/518) · [PR #521](https://github.com/ion-fusion/fusion-java/pull/521) 
 
 - Fixed a bug in `ActualSymbol.write()` where operator symbols like `+` and `=` were incorrectly quoted inside sexp contexts, violating Ion spec behavior. Added test cases covering operator symbols, quoted symbols, null symbols, and improper sexps. Multi-round code review with project maintainers including a principal engineer with 20+ years at Amazon. 200+ lines accepted into main.
 - Added `ionize(Object, IonWriter)` to the `TopLevel` public embedding API, placing ionization at the correct abstraction layer rather than `FusionRuntime`. Navigated package dependency constraints enforced by static analysis tooling, structural baseline maintenance, and Javadoc requirements for a public-facing interface. Reviewed and merged by Todd Jonker, co-inventor of Amazon Ion.
