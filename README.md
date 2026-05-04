@@ -16,7 +16,7 @@ Secure REST API for managing hospital patients, hospitalizations, and medical te
 High performing API Gateway for routing requests to backend services with resilience and control features. Includes rate limiting (Redis sliding window with Lua), retries with exponential backoff, circuit breaker (CLOSED/OPEN/HALF-OPEN), JWT authentication, tested to ensure security and response caching. Provides admin endpoints for monitoring (metrics, circuit states, rate limits) and a mock service for failure injection and testing.
 
 **[Library-System-Java-MySQL](https://github.com/DimitriosDalaklidhs/Library-System-Java-MySQL)** `Java` `MySQL`
-Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed book tracking, and automated database initialization via SQL schemas.
+Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed book tracking and automated database initialization via SQL schemas.
 
 **[process-supervisor](https://github.com/DimitriosDalaklidhs/process-supervisor)** `Bash` `Docker`
 Lightweight process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments.
@@ -28,7 +28,7 @@ TCP client server application. The client sends integers over a socket and then 
 Multithreaded HTTP server written from scratch using Windows sockets. Handles concurrent connections without a framework.
 
 **[currency-exchange-server](https://github.com/DimitriosDalaklidhs/currency-exchange-server)** `C`
-TCP/IP client server system for currency exchange operations. Focuses on protocol design and socket communication.
+TCP/IP client server system for currency exchange operations. Focuses on socket communication.
 
 **[unix-process-management](https://github.com/DimitriosDalaklidhs/unix-process-management)** `C` `Unix` `IPC` `Docker`
 Demonstrates Unix interprocess communication using a shared pipe across multiple child processes. Covers the full process lifecycle: creation, concurrent execution, and synchronization via fork(), getpid(), pipe(), and wait(). Packaged with a multi stage Docker build; no local C toolchain required.
