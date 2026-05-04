@@ -22,7 +22,7 @@ Full library management system with SWING and MySQL backend. Features user authe
 Lightweight process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments.
 
 **[tcp-prime-factors-server-client](https://github.com/DimitriosDalaklidhs/tcp-prime-factors-server-client)** `C`
-TCP client server application. The client sends integers over a socket and then the server computes and returns their prime factors. Built for a distributed systems course at UowM.
+TCP client server application. The client sends integers over a socket and then the server computes and returns their prime factors. Using Docker we are able to reduce overall size by more than 70 percent and significantly reduce the attack surface. Built for a distributed systems course at UowM.
 
 **[GitProjectServer](https://github.com/DimitriosDalaklidhs/GitProjectServer)** `C` `Winsock`
 Multithreaded HTTP server written from scratch using Windows sockets. Handles concurrent connections without a framework.
