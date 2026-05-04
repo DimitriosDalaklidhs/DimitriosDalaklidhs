@@ -22,16 +22,16 @@ Full library management system with SWING and MySQL backend. Features user authe
 Lightweight process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments with heavy declarative element and full troubleshooting personal notes in README.
 
 **[tcp-prime-factors-server-client](https://github.com/DimitriosDalaklidhs/tcp-prime-factors-server-client)** `C`
-TCP client server application. The client sends integers over a socket and then the server computes and returns their prime factors. Using Docker we are able to reduce overall size by more than 70 percent and significantly reduce the attack surface. Built for the distributed systems course at UowM.
+TCP client server application. The client sends integers over a socket and then the server computes and returns their prime factors. Fully Dockerized with a multi stage built. Built for the distributed systems course at UowM.
 
 **[GitProjectServer](https://github.com/DimitriosDalaklidhs/GitProjectServer)** `C` `Winsock`
 Multithreaded HTTP server written from scratch using Windows sockets. Handles concurrent connections without a framework.
 
 **[currency-exchange-server](https://github.com/DimitriosDalaklidhs/currency-exchange-server)** `C`
-TCP/IP client server system for currency exchange operations. Focuses on socket communication. Fully Dockerized with a multi stage built.
+TCP/IP client server system for currency exchange operations. Focuses on socket communication. 
 
 **[unix-process-management](https://github.com/DimitriosDalaklidhs/unix-process-management)** `C` `Unix` `IPC` `Docker`
-Demonstrates Unix interprocess communication using a shared pipe across multiple child processes. Covers the full process lifecycle: creation, concurrent execution, and synchronization via fork(), getpid(), pipe(), and wait(). Packaged with a multi stage Docker build; no local C toolchain required.
+Demonstrates Unix interprocess communication using a shared pipe across multiple child processes. Covers the full process lifecycle: creation, concurrent execution, and synchronization via fork(), getpid(), pipe(), and wait(). Packaged with a multi stage Docker build; no local C toolchain required. Using Docker we are able to reduce overall size by more than 70 percent and significantly reduce the attack surface.
 
 &nbsp;
 ## Skills
