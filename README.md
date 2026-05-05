@@ -19,7 +19,7 @@ API Gateway for routing requests to backend services with resilience and control
 Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed book tracking and automated database initialization via SQL schemas. With this one, I wanted to prove that although I am a young engineer I can still work with legacy technology like SWING. 
 
 **[process-supervisor](https://github.com/DimitriosDalaklidhs/process-supervisor)** `Bash` `Docker`
-Lightweight process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments with heavy declarative element and full troubleshooting personal notes in README(recently enriched it with mermaid.js too).
+Process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments with heavy declarative element and full troubleshooting personal notes in README(recently enriched it with mermaid.js too).
 
 **[tcp-prime-factors-server-client](https://github.com/DimitriosDalaklidhs/tcp-prime-factors-server-client)** `C`
  My second ever app and a big learning experience, It has been modernized recently with Docker as have most of my projects in a consious effort to get acquainted with newer technology. TCP client server application. The client sends integers over a socket and then the server computes and returns their prime factors. Built for the distributed systems course at UowM. This was the equivalent to beginner calculator apps, only difference being that this is at the low-level.
