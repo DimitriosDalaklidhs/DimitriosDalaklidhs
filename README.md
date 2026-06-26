@@ -18,15 +18,6 @@ API Gateway for routing requests to backend services with resilience and control
 **[Library-System-Java-MySQL](https://github.com/DimitriosDalaklidhs/Library-System-Java-MySQL)** `Java` `MySQL`
 Full library management system with SWING and MySQL backend. Features user authentication, book search, borrowed book tracking and automated database initialization via SQL schemas. With this one, I wanted to prove that although I am a young engineer I can still work with legacy technology like SWING. 
 
-**[process-supervisor](https://github.com/DimitriosDalaklidhs/process-supervisor)** `Bash` `Docker`
-Process supervisor written in Bash for managing and automatically restarting long running workloads in Docker and Kubernetes environments with heavy declarative element and full troubleshooting personal notes in README(recently enriched it with mermaid.js too).
-
-**[tcp-prime-factors-server-client](https://github.com/DimitriosDalaklidhs/tcp-prime-factors-server-client)** `C`
- My second ever app and a big learning experience, It has been modernized recently with Docker as have most of my projects in a consious effort to get acquainted with newer technology. TCP client server application. The client sends integers over a socket and then the server computes and returns their prime factors. Built for the distributed systems course at UowM. This was the equivalent to beginner calculator apps, only difference being that this is at the low-level.
-
-**[GitProjectServer](https://github.com/DimitriosDalaklidhs/GitProjectServer)** `C` `Winsock`
-Multithreaded HTTP server written from scratch using Windows sockets. I was given to understand that Windows side CS has seen large improvement over the past 15 years and so this is my first use of the Winsock API. Handles concurrent connections without a framework.
-
 **[unix-process-management](https://github.com/DimitriosDalaklidhs/unix-process-management)** `C` `Unix` `IPC` `Docker`
 Beyond this programs obvious relevance to low-level building, It also showed me for the first time how we can reduce size by a big percentage using Docker something that is going to become ever more relevant in the years to come. Unix Process Management demonstrates Unix interprocess communication using a shared pipe across multiple child processes. Covers the full process lifecycle: creation, concurrent execution, and synchronization via fork(), getpid(), pipe(), and wait(). Packaged with a multi stage Docker build; no local C toolchain required. Using Docker we are able to reduce overall size by more than 70 percent and significantly reduce the attack surface. This repository was heavily inspired by the brilliant book of Andrew S. Tanenbaum and Herbert Bos."Modern Operating Systems".
 
