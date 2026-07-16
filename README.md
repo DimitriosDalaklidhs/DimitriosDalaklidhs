@@ -1,5 +1,5 @@
 # Dimitrios Dalaklidis
-Final year Informatics student at the University of Western Macedonia (THE World University Rankings: Computer Science 601-800 for 2025), graduating July 2026. I work primarily in C and Java with a focus on systems programming and backend development. In addition, personal projects include work with sockets as well as POSIX, process management but also memory. I have experience building production-grade backend services with REST APIs, JWT auth, relational databases and much more while at the same time I am an open-source contributor to ion fusion (Amazon). Currently open to roles in systems, backend or software engineering.
+Informatics 4 year Graduate at the University of Western Macedonia (THE World University Rankings: Computer Science 601-800 for 2025). I work primarily in C and Java with a focus on systems programming and backend development. In addition, personal projects include work with sockets as well as POSIX, process management but also memory. I have experience building production-grade backend services with REST APIs, JWT auth, relational databases and much more while at the same time I am an open-source contributor to ion fusion (Amazon). Currently open to roles in systems, backend or software engineering.
 &nbsp;
 
 ## Open Source Contributions
