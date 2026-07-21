@@ -23,7 +23,7 @@ Beyond this programs obvious relevance to low-level building, It also showed me 
 
 &nbsp;
 ## Skills
-`C` `Java` `Spring Boot` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Kubernetes` `English C2 Michigan State University ECPE certified` `Git` `JWT` `REST APIs`
+`C` `Java` `Spring Boot` `Bash` `TCP/IP` `Unix` `MySQL` `Docker` `Kubernetes` `English C2 University of Michigan ECPE certified` `Git` `JWT` `REST APIs`
 &nbsp;
 ## Contact
  dalaklidesdemetres@gmail.com
